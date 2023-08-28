@@ -8,7 +8,7 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 
 module.exports = () => {
   return {
-    mode: 'production',
+    mode: 'development',
     entry: {
       main: './src/js/index.js',
       install: './src/js/install.js'
@@ -31,9 +31,9 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Text Editor',
-        short_name: 'Editor',
-        description: 'Edit Text',
+        name: 'Jate',
+        short_name: 'Jate',
+        description: 'Just Another Text Editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
