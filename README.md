@@ -16,7 +16,18 @@
   Clone the repository and in the terminal type in the command npm i, to install packages.  Then type npm run start to start the backend and serve the client.  Navigate to localhost:3000 to view the app locally.  To run the app offline, click the install button to download to your computer.
 
 ## Usage 
-  Type in the editor notes and code for your review or edits later.  Check out the deployed app here:
+  Type in the editor notes and code for your review or edits later.  
+
+Image shows cached assets
+![alt text](./client/src/images/cached%20assets.png)
+
+Image shows IndexedDb
+![alt text](./client/src/images/lndexeddb.png)
+
+Image shows Service Worker
+![alt text](./client/src/images/ServiceWorker.png)
+
+  Check out the deployed app here:
   https://progressive-text-editor-two-3a84065df07c.herokuapp.com/
 
 ## License
