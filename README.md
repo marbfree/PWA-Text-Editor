@@ -1,6 +1,8 @@
 # PWA Text Editor 
+
 ## Description 
-  As a developer, I want to create notes and code snippets with or without an internet connection so that I can retrieve them for later use
+  As a developer, I want to create notes and code snippets with or without an internet connection so that I can retrieve them for later use.
+
 ## Table of Contents
 [Installation](#installation) 
 
@@ -8,23 +10,19 @@
 
 [License](#license)
 
-[Credits](#credits)
-
-[Tests](#tests)
-
 [Questions](#questions)
 
 ## Installation 
-  Clone the repository and in the terminal type in the command npm i, to install packages.  Then type npm build and finally npm run start:dev.  Open the index.html file in the dist folder with live server.  To run the app offline, click the install button to install to your computer.
+  Clone the repository and in the terminal type in the command npm i, to install packages.  Then type npm build and finally npm run start:dev.  Navigate to localhost:3000 to view the app locally.  To run the app offline, click the install button to download to your computer.
+
 ## Usage 
-  Type in the editor and the notes and code will save for later use.  
-## Credits 
-  
+  Type in the editor notes and code for your review or edits later.  Check out the deployed app here:
+  https://progressive-text-editor-two-3a84065df07c.herokuapp.com/
+
 ## License
   None
-      
-      
-## Tests 
   
 ## Questions
 Check out my GitHub at https://github.com/marbfree 
+and the repository here:
+https://github.com/marbfree/PWA-Text-Editor
