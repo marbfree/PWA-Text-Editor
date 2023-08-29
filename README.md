@@ -13,7 +13,7 @@
 [Questions](#questions)
 
 ## Installation 
-  Clone the repository and in the terminal type in the command npm i, to install packages.  Then type npm build and finally npm run start:dev.  Navigate to localhost:3000 to view the app locally.  To run the app offline, click the install button to download to your computer.
+  Clone the repository and in the terminal type in the command npm i, to install packages.  Then type npm run start to start the backend and serve the client.  Navigate to localhost:3000 to view the app locally.  To run the app offline, click the install button to download to your computer.
 
 ## Usage 
   Type in the editor notes and code for your review or edits later.  Check out the deployed app here:
